@@ -11,3 +11,5 @@
 **Используемые библиотеки**: pandas / numpy / matplotlib / seaborn / plotly / scipy / math /
 
 **Навыки**: событийная аналитика, пользовательские сценарии, продуктовые метрики, проверка статистических гипотез, визуализация данных
+
+[Ссылка на дашборд](https://public.tableau.com/views/Final_16794692075120/sheet5?:language=en-US&:display_count=n&:origin=viz_share_link)
